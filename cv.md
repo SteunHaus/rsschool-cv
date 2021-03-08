@@ -1,6 +1,7 @@
 ### Eudakimenka Pavel Aleksandrovich
 
 **Tel.** +375447261591
+
 **E-mail** pavel.evdokimenko@gmail.com
 
 # Personal Information
@@ -13,8 +14,8 @@
 
 * HTML & CSS
 * JavaScript
-* git
-* bash
+* Git
+* Bash
 
 # Code Example
 
@@ -52,7 +53,7 @@ var isAnagram = function(test, original) {
 # Education
 
 * Cisco IT Essentials (Certificate)
-* IamIT courses (HTML & CSS, JS, php, React, jQuery)\
+* IamIT courses (HTML & CSS, JS, php, React, jQuery)
 
 # Languages
 
