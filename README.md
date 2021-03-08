@@ -1,3 +1,3 @@
 # rsschool-cv
 https://steunhaus.github.io/rsschool-cv/cv
-https://steunhaus.github.io/rsschool-cv/index.html
+https://steunhaus.github.io/rsschool-cv/
