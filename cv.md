@@ -20,7 +20,7 @@
 
 Example of the code below is checking, whether the two arguments given are anagrams of each other:
 
-'''
+```
   // write the function isAnagram
 var isAnagram = function(test, original) {
   if (test.length != original.length || test.length < 1) return false;
@@ -45,7 +45,7 @@ var isAnagram = function(test, original) {
   
 };
 
-'''
+```
 
 # Experience
 
